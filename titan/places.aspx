@@ -1,0 +1,142 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="places.aspx.cs" Inherits="titan.places" %>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+	<meta charset="utf-8" />
+    <link rel="stylesheet" type="text/css" href="place.css">
+    <link rel="stylesheet" type="text/css" href="style.css">
+   
+</head>
+<body>
+    <div class="ulockd-home-slider">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="pogoSlider" id="js-main-slider">
+                <div class="pogoSlider-slide" data-transition="zipReveal" data-duration="1500" style="background-image:url(varanasi.jpg);">
+                    <div class="lbox-caption">
+                        <div class="lbox-details">
+                            <h1>Varansi</h1>
+                            <h2>
+                                Ganga Ghath
+                            </h2>
+                            <p> Overall price of varanasi  with discount <strong>Rs.25000</strong></p>
+                            <a href="result.aspx" class="btn ">Book varanasi</a>
+                        </div>
+                    </div>
+                </div>
+
+            </div><!-- .pogoSlider -->
+        </div>
+    </div>
+    </div>
+
+    <div class="ulockd-home-slider">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="pogoSlider" id="js-main-slider">
+                    <div class="pogoSlider-slide" data-transition="zipReveal" data-duration="1500" style="background-image:url(mumbai.jpg);">
+                        <div class="lbox-caption">
+                            <div class="lbox-details">
+                                <h1>mumbai</h1>
+                                <h2>The city of Dreams
+                                      </h2>
+                                    <p> overall price of mumbai with discount <strong>Rs.3000</strong></p>
+                                    <a href="result.aspx" class="btn ">Book Mumbai </a>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div><!-- .pogoSlider -->
+            </div>
+        </div>
+    </div>
+
+    <div class="ulockd-home-slider">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="pogoSlider" id="js-main-slider">
+                    <div class="pogoSlider-slide" data-transition="zipReveal" data-duration="1500" style="background-image:url(rajasthan.jpg);">
+                        <div class="lbox-caption">
+                            <div class="lbox-details">
+                                <h1>Rajasthan</h1>
+                                <h2>
+                                    The Royal place
+                                </h2>
+                                <p>overall price of rajasthan with discount <strong>Rs.5000</strong></p>
+                                <a href="result.aspx" class="btn ">Book  Rajasthan</a>
+                            </div>
+                        </div>
+                    </div>
+
+                </div><!-- .pogoSlider -->
+            </div>
+        </div>
+    </div>
+
+    <div class="ulockd-home-slider">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="pogoSlider" id="js-main-slider">
+                <div class="pogoSlider-slide" data-transition="zipReveal" data-duration="1500" style="background-image:url(delhi.jpg);">
+                    <div class="lbox-caption">
+                        <div class="lbox-details">
+                            <h1>Delhi</h1>
+                            <h2>
+                                The Capital of India
+                            </h2>
+                            <p> overll price of delhi with discount <strong>Rs.9000</strong></p>
+                            <a href="result.aspx" class="btn ">Book Delhi </a>
+                        </div>
+                    </div>
+                </div>
+
+            </div><!-- .pogoSlider -->
+        </div>
+    </div>
+    </div>
+    <div class="ulockd-home-slider">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="pogoSlider" id="js-main-slider">
+                <div class="pogoSlider-slide" data-transition="zipReveal" data-duration="1500" style="background-image:url(rishikesh.jpg);">
+                    <div class="lbox-caption">
+                        <div class="lbox-details">
+                            <h1>Rishikesh</h1>
+                            <h2>
+                                Spiritual place for Hindus
+                            </h2>
+                            <p> overall price  of Risikesh with discount <strong>Rs.15000</strong></p>
+                            <a href="result.aspx" class="btn ">Book Rishikesh</a>
+                        </div>
+                    </div>
+                </div>
+
+            </div><!-- .pogoSlider -->
+        </div>
+    </div>
+    </div>
+    <div class="ulockd-home-slider">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="pogoSlider" id="js-main-slider">
+                <div class="pogoSlider-slide" data-transition="zipReveal" data-duration="1500" style="background-image:url(karnataka.jpg);">
+                    <div class="lbox-caption">
+                        <div class="lbox-details">
+                            <h1>karnataka</h1>
+                            <h2>
+                                Masterpiece of Motherland
+                            </h2>
+                            <p> overall price of karnataka with discount <strong>Rs.7000</strong></p>
+                            <a href="result.aspx" class="btn ">Book Karnataka</a>
+                        </div>
+                    </div>
+                </div>
+
+            </div><!-- .pogoSlider -->
+        </div>
+    </div>
+    </div>
+
+</body>
+</html>
